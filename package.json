@@ -1,0 +1,29 @@
+{
+  "name": "video-streaming-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanth506/node-video-streaming-app.git"
+  },
+  "keywords": [
+    "Video-streaming",
+    "node"
+  ],
+  "author": "Hemanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth506/node-video-streaming-app/issues"
+  },
+  "homepage": "https://github.com/hemanth506/node-video-streaming-app#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
